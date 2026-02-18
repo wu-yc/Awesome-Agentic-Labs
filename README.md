@@ -21,7 +21,7 @@ Contact: wuyc@stanford.edu
 </div>
 
 <div align="center">
-  <img src="https://github.com/wu-yc/Awesome-Agentic-Labs/blob/main/fivelevels.jpg" width="50%" alt="Five Levels of Autonomy in Scientific Research">
+  <img src="https://github.com/wu-yc/Awesome-Agentic-Labs/blob/main/fivelevels.jpg" width="60%" alt="Five Levels of Autonomy in Scientific Research">
 </div>
 
 ## 🌟 Overview
