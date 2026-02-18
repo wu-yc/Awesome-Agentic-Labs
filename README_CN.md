@@ -13,7 +13,7 @@
 
 本仓库手动收集了迈向 **Agentic Labs** 时代（自主科学的 AI 基础设施）的相关工作。  
 
-作者： Yingcheng Charles Wu (Stanford), Le Cong* (Stanford), Mengdi Wang* (Princeton)  
+作者： 吴英成 (Stanford), 丛乐 (Stanford), 王梦迪 (Princeton)  
 联系方式： wuyc@stanford.edu
 
 [🌟 概览](#-概览) • [📖 新闻](#-新闻) • [📚 内容](#-内容) • [🤝 贡献](#-贡献) • [🇺🇸 English](README.md)
