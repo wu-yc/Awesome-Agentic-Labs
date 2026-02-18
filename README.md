@@ -327,3 +327,8 @@ Benchmarks like DiscoveryWorld for reproducibility. Ethics: equitable access. Fu
 - [Tengfei-Wang/Awesome-AI-Agent-for-Materials](https://github.com/Tengfei-Wang/Awesome-AI-Agent-for-Materials)
 - [probertson91/awesome-scientific-writing](https://github.com/probertson91/awesome-scientific-writing)
 - [RManLuo/Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG)
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wu-yc/Awesome-Agentic-Labs&type=date&legend=top-left)](https://www.star-history.com/#wu-yc/Awesome-Agentic-Labs&type=date&legend=top-left)
