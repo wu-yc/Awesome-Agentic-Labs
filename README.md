@@ -17,7 +17,7 @@ It is intended to be a **living bibliography + taxonomy** (papers, systems, benc
 Authors: Yingcheng Charles Wu (Stanford), Le Cong* (Stanford), Mengdi Wang* (Princeton)  
 Contact: wuyc@stanford.edu
 
-[📖 News](#-news) • [🌟 Overview](#-overview) • [📚 Content](#-content) • [🤝 Contributing](#-contributing)
+[📖 News](#-news) • [🌟 Overview](#-overview) • [📚 Content](#-content) • [🤝 Contributing](#-contributing) • [🇨🇳 中文](README_CN.md)
 
 </div>
 
