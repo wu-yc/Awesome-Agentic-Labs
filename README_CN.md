@@ -20,10 +20,9 @@
 
 </div>
 
----
 
 <div align="center">
-  <img src="fivelevels.jpg" width="50%" alt="科学研究中的五个自主性层级">
+  <img src="fivelevels2.jpg" width="60%" alt="科学研究中的五个自主性层级">
 </div>
 
 ## 🌟 概览
