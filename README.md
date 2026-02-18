@@ -20,8 +20,6 @@ Contact: wuyc@stanford.edu
 
 </div>
 
----
-
 <div align="center">
   <img src="fivelevels.jpg" width="50%" alt="Five Levels of Autonomy in Scientific Research">
 </div>
