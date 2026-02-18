@@ -16,7 +16,7 @@ This repository manually collects works towards the era of **agentic labs**: the
 Authors: Yingcheng Charles Wu (Stanford), Le Cong* (Stanford), Mengdi Wang* (Princeton)  
 Contact: wuyc@stanford.edu
 
-[🌟 Overview](#-overview) • [� News](#-news) • [�📚 Content](#-content) • [🤝 Contributing](#-contributing) • [🇨🇳 中文](README_CN.md)
+[🌟 Overview](#-overview) • [📖 News](#-news) • [📚 Content](#-content) • [🤝 Contributing](#-contributing) • [🇨🇳 中文](README_CN.md)
 
 </div>
 
@@ -28,10 +28,6 @@ Contact: wuyc@stanford.edu
 
 ## 🌟 Overview
 Agentic labs represent a transformative era in AI-driven science, where autonomous systems powered by large language models (LLMs), multimodal capabilities, and integrated platforms function as full research partners. These agents generate hypotheses, design and execute experiments, analyze data, and iteratively refine processes across domains like life sciences, chemistry, materials science, physics, and astronomy.
-
-## 📖 News
-- **[2026/02/02]** Initial version released.
-- **[2026/02/18]** Added (when available) **canonical paper links**, **exact posting/submission dates**, **GitHub links** (or GitHub search links), and a lightweight **taxonomy** (**Type** + **Autonomy**).
 
 ### Conventions
 ### Taxonomy
@@ -48,6 +44,10 @@ Agentic labs represent a transformative era in AI-driven science, where autonomo
   When not verified yet, the link points to an **arXiv search** for fast lookup.
 - **Code** links point to an **official GitHub repo** when known.  
   Otherwise the link is a **GitHub repository search** (so every row has something actionable).
+
+## 📖 News
+- **[2026/02/02]** Initial version released.
+- **[2026/02/18]** Added (when available) **canonical paper links**, **exact posting/submission dates**, **GitHub links** (or GitHub search links), and a lightweight **taxonomy** (**Type** + **Autonomy**).
 
 ---
 
