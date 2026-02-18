@@ -3,7 +3,6 @@
 # Awesome Agentic Labs
 
 [![Awesome](https://awesome.re/badge.svg?logo=stylelint)](https://awesome.re)
-[![Arxiv](https://img.shields.io/badge/Arxiv-Agentic_Science-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.14111)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/wu-yc/Awesome-Agentic-Labs/pulls)
 [![GitHub Stars](https://img.shields.io/github/stars/wu-yc/Awesome-Agentic-Labs?style=social)](https://star-history.com/#wu-yc/Awesome-Agentic-Labs)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
