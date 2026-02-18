@@ -16,22 +16,22 @@ This repository manually collects works towards the era of **agentic labs**: the
 Authors: Yingcheng Charles Wu (Stanford), Le Cong* (Stanford), Mengdi Wang* (Princeton)  
 Contact: wuyc@stanford.edu
 
-[📖 News](#-news) • [🌟 Overview](#-overview) • [📚 Content](#-content) • [🤝 Contributing](#-contributing) • [🇨🇳 中文](README_CN.md)
+[🌟 Overview](#-overview) • [� News](#-news) • [�📚 Content](#-content) • [🤝 Contributing](#-contributing) • [🇨🇳 中文](README_CN.md)
 
 </div>
 
 ---
 
-## 📖 News
-- **[2026/02/02]** Initial version released.
-- **[2026/02/18]** Added (when available) **canonical paper links**, **exact posting/submission dates**, **GitHub links** (or GitHub search links), and a lightweight **taxonomy** (**Type** + **Autonomy**).
+<div align="center">
+  <img src="fivelevels.jpg" width="50%" alt="Five Levels of Autonomy in Scientific Research">
+</div>
 
 ## 🌟 Overview
 Agentic labs represent a transformative era in AI-driven science, where autonomous systems powered by large language models (LLMs), multimodal capabilities, and integrated platforms function as full research partners. These agents generate hypotheses, design and execute experiments, analyze data, and iteratively refine processes across domains like life sciences, chemistry, materials science, physics, and astronomy.
 
-<div align="center">
-  <img src="fivelevels.jpg" width="80%" alt="Five Levels of Autonomy in Scientific Research">
-</div>
+## 📖 News
+- **[2026/02/02]** Initial version released.
+- **[2026/02/18]** Added (when available) **canonical paper links**, **exact posting/submission dates**, **GitHub links** (or GitHub search links), and a lightweight **taxonomy** (**Type** + **Autonomy**).
 
 ### Conventions
 ### Taxonomy
